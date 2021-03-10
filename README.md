@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-A programmer loves learning and Vlang
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alic110&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Chameleon](https://github.com/alic110/alic110/blob/main/28-removebg-preview.png)
