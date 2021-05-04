@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![Chameleon](https://github.com/alic110/alic110/blob/main/28-removebg-preview.png)
+<p align="center">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=AliChraghi&include_all_commits=true&show_icons=true" />
+</p>
