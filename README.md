@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-<p align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=AliChraghi&include_all_commits=true&show_icons=true" />
-</p>
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
